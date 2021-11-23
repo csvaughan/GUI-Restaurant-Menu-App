@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "SpicyMeatball_CS115Final/1.0.0": {
+        "runtime": {
+          "SpicyMeatball_CS115Final.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SpicyMeatball_CS115Final/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
